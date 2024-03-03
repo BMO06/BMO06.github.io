@@ -1,0 +1,9 @@
+[submodule "bmo06.github.io"]
+	path = bmo06.github.io
+	url = https://github.com/BMO06/BMO06.github.io.git
+[submodule "assert/lib"]
+	path = assert/lib
+	url = https://github.com/cotes2020/chirpy-static-assets.git
+[submodule "assets/lib"]
+	path = assets/lib
+	url = https://github.com/cotes2020/chirpy-static-assets.git
